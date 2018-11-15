@@ -1,7 +1,8 @@
 class Shoe
   
   def cobble
-    puts ""
+    puts "The shoe has been repaired!"
+  end 
   
   
 end 
