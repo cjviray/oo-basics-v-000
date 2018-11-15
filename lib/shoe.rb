@@ -1,5 +1,7 @@
 class Shoe
   
+  def cobble
+    puts ""
   
   
 end 
